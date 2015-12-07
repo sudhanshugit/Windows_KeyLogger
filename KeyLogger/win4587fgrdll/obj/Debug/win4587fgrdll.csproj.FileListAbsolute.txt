@@ -1,6 +1,0 @@
-c:\users\hp\documents\visual studio 2015\Projects\win4587fgrdll\win4587fgrdll\bin\Debug\win4587fgrdll.exe.config
-c:\users\hp\documents\visual studio 2015\Projects\win4587fgrdll\win4587fgrdll\bin\Debug\win4587fgrdll.exe
-c:\users\hp\documents\visual studio 2015\Projects\win4587fgrdll\win4587fgrdll\bin\Debug\win4587fgrdll.pdb
-c:\users\hp\documents\visual studio 2015\Projects\win4587fgrdll\win4587fgrdll\obj\Debug\win4587fgrdll.exe
-c:\users\hp\documents\visual studio 2015\Projects\win4587fgrdll\win4587fgrdll\obj\Debug\win4587fgrdll.pdb
-C:\Users\hp\Documents\Visual Studio 2015\Projects\win4587fgrdll\win4587fgrdll\obj\Debug\win4587fgrdll.csprojResolveAssemblyReference.cache
